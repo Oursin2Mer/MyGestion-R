@@ -39,7 +39,7 @@
    Pour démarrer le programme, exécutez le script :
 
    ```bash
-   ./script.sh
+   ./MyGestPt1.sh
    ```
 
 3. **Configurer la base de données** :
