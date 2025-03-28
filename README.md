@@ -28,8 +28,8 @@
    Clonez ce repository sur votre machine locale :
 
    ```bash
-   git clone https://github.com/Oursin2Mer/MyGest-IOnR.git
-   cd MyGest-IOnR
+   git clone https://github.com/Oursin2Mer/MyGestion-R.git
+   cd MyGestion-R
    ```
 
 2. **Exécution du script principal** :
